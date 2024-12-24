@@ -1,0 +1,13 @@
+{
+    "scripts": {
+        "dev": "nodemon index.js"
+    },
+    "dependencies": {
+        "express": "^4.21.2",
+        "md5": "^2.3.0",
+        "puppeteer": "^23.11.1"
+    },
+    "devDependencies": {
+        "nodemon": "^3.0.1"
+    }
+}
